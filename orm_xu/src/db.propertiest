@@ -1,0 +1,10 @@
+dirver=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/douban?useSSL=false
+user=root
+pwd=123456
+usingDB=mysql
+srcPath=D:\\javaBug\\ORMDemo\\src
+poPackage=com.po
+queryClass =com.core.MysqlQueqry
+poolMax=100
+poolMin=10
